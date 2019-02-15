@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"icon img.jpg",
+		"name":"JYO",
+		"rollno":"513",
+		"place":"rajahmundry",
+		"designation":"student"
+	},
+	"career":{
+		"info":"To reach my goals and succeed in my life"
+	},
+	"education":[
+		{ 
+		"sno":"1",
+		"degree":"B.tech",
+		"institute":"Pragati Engineering College",
+		"percentage":"86",
+		"year":"2021"
+	},
+        { "sno":"2",
+         "degree":"Intermediate",
+		"institute":"chaitanya College",
+		"percentage":"97",
+		"year":"2017"
+	},
+	{
+		"sno":"3",
+	    "degree":"SSC",
+		"institute":"Dr.KKR Gowtham school",
+		"percentage":"97",
+		"year":"2015"
+	}
+],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}
